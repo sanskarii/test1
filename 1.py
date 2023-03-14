@@ -3,6 +3,7 @@ if(a==1):
     print("yes")
     print("haaa ")
     print("yeah")
+    print("hooo")
 
 else:
     print("No")
