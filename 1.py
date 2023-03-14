@@ -6,4 +6,8 @@ if(a==1):
     print("hooo")
 
 else:
-    print("No")
+    c=int(input())
+    if c==3:
+        print("child")
+    else:    
+        print("No")
